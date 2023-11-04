@@ -1,1 +1,1 @@
-# Change-Points-Detectioni
+# Change-Points-Detection
